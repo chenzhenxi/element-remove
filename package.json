@@ -1,0 +1,19 @@
+{
+  "name": "element-remove",
+  "version": "1.0.0",
+  "description": "Just a tiny polyfill for element.remove",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenzhenxi/element-remove.git"
+  },
+  "author": "Eric (Zhenxi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenzhenxi/element-remove/issues"
+  },
+  "homepage": "https://github.com/chenzhenxi/element-remove#readme"
+}
