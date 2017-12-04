@@ -12,7 +12,7 @@ https://github.com/jserz/js_piece/blob/master/DOM/ChildNode/remove()/remove().md
 
 # Webpack
 
-Just add element-remove to your entry, you all good
+Just add element-remove to your entry, you are all good
 
 ```['element-remove', 'app.js']```
 
