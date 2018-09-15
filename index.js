@@ -12,4 +12,4 @@
       }
     });
   });
-})([Element.prototype, CharacterData.prototype, DocumentType.prototype]);
+})([Element.prototype, CharacterData.prototype, DocumentType.prototype].filter(Boolean));
