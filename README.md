@@ -7,6 +7,10 @@ https://github.com/jserz/js_piece/blob/master/DOM/ChildNode/remove()/remove().md
 
 [![npm downloads](https://img.shields.io/npm/dm/element-remove.svg?style=flat-square)](https://www.npmjs.com/package/element-remove)
 
+# Compatibility
+
+IE9 and IE9+  
+For browsers before IE9, you may need [babel-polyfill](https://babeljs.io/docs/en/babel-polyfill)
 
 # Usage
 
