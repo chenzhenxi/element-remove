@@ -8,7 +8,7 @@
       enumerable: true,
       writable: true,
       value: function remove() {
-        this.parentNode.removeChild(this);
+        this.parentNode && this.parentNode.removeChild(this);
       }
     });
   });
