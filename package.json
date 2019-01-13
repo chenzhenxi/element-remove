@@ -1,6 +1,6 @@
 {
   "name": "element-remove",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Just a tiny polyfill for element.remove",
   "main": "index.js",
   "scripts": {
