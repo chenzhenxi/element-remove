@@ -31,7 +31,7 @@ require('element-remove');
 ```
 es6
 ```
-import('element-remove');
+import 'element-remove';
 ```
 
 ## License
